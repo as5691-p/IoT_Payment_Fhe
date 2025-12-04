@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\api-base-boilerplate\endpoint-dynamic\dynamic-environment.rst
+// Generated at: 2025-10-20T12:01:42.004Z
